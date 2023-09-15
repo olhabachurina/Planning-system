@@ -1,0 +1,3 @@
+Finish project,1,2023-09-16,studies,project
+Pass the exam,2,2023-09-23,studies
+Visit the theater with your family,3,2023-09-27,family
